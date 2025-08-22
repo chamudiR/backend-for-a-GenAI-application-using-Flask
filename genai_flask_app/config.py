@@ -10,7 +10,7 @@ PARAMETERS = {
 # Note: Normally we'd need an API key, but in Skill's Network Cloud IDE will automatically handle that for you.
 credentials = Credentials(
                    url = "https://us-south.ml.cloud.ibm.com",
-                   api_key = "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" 
+                   api_key = 
                   )
 
 # Model IDs
